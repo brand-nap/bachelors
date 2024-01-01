@@ -1,0 +1,398 @@
+index,id,area_name,area_type,incorporation_year,county_incorporation,population_year,total_population,name_type
+
+2,793,Aguilar,M,1894,Las Animas,1890,0
+17,794,Akron,M,1887,Weld,1890,559
+32,795,Alamosa,M,1878,Alamosa,1890,973
+47,796,Alma,M,1873,Park,1890,367
+62,1138,Altman,M,1894,El Paso,1890,0
+77,1139,Anaconda,M,1893,El Paso,1890,0
+92,1128,Animas City,M,1879,La Plata,1890,180
+107,797,Antonito,M,1889,Conejos,1890,315
+122,798,Arriba,M,1918,Lincoln,1890,0
+137,1141,Arrowhead,M,1900,Grand,1890,0
+152,1140,Artesia,M,1947,Moffat,1890,0
+167,799,Arvada,M,1904,More than One,1890,0
+182,800,Aspen,M,1881,Pitkin,1890,5108
+197,801,Ault/Bergdorf,M,1904,Weld,1890,0
+212,802,Aurora,M,1891,More than One,1890,0
+227,803,Avon,M,1978,Eagle,1890,0
+242,804,Basalt,M,1901,More than One,1890,0
+257,805,Bayfield,M,1910,La Plata,1890,0
+272,1142,Belview,M,1896,Larimer,1890,0
+287,806,Bennett,M,1930,Adams,1890,0
+302,1143,Berkely,M,1898,Arapahoe,1890,0
+317,807,Berthoud,M,1888,Larimer,1890,228
+332,808,Bethune,M,1926,Kit Carson,1890,0
+347,809,Black Hawk,M,1864,Gilpin,1890,1067
+362,810,Blanca,M,1910,Costilla,1890,0
+377,811,Blue River,M,1964,Summit,1890,0
+392,812,Bonanza,M,1881,Saguache,1890,96
+407,813,Boone,M,1956,Pueblo,1890,0
+422,814,Boulder,M,1885,Boulder,1890,3339
+437,815,Bow Mar,M,1958,More than One,1890,0
+452,816,Branson,M,1922,Las Animas,1890,0
+467,817,Breckenridge,M,1880,Summit,1890,714
+482,818,Brighton,M,1887,More than One,1890,306
+497,819,Brookside,M,1913,Fremont,1890,0
+512,820,Broomfield,M,1961,More than One,1890,0
+527,821,Brush,M,1884,Morgan,1890,112
+542,822,Buena Vista,M,1879,Chaffee,1890,1317
+557,823,Burlington,M,1888,More than One,1890,146
+572,824,Calhan,M,1919,El Paso,1890,0
+587,1144,Cameron,M,1900,Teller,1890,0
+602,825,Campo,M,1946,Baca,1890,0
+617,826,Canon City,M,1872,Fremont,1890,2825
+632,1119,Carbonateville,M,1879,Summit,1890,0
+647,827,Carbondale,M,1888,Garfield,1890,166
+662,1120,Caribou,M,1885,Boulder,1890,169
+677,828,Castle Rock,M,1881,Douglas,1890,315
+692,829,Cedaredge,M,1907,Delta,1890,0
+707,1187,Centennial,M,,Arapahoe,1890,0
+722,830,Center,M,1906,More than One,1890,0
+737,831,Central City,M,1864,Gilpin,1890,2480
+752,1145,Central Pueblo,M,1882,Pueblo,1890,0
+767,832,Cheraw,M,1890,Otero,1890,0
+782,833,Cherry Hills Village,M,1945,Arapahoe,1890,0
+797,834,Cheyenne Wells,M,1890,Cheyenne,1890,319
+812,1122,Chihuahua,M,1880,Summit,1890,0
+827,1146,Chivington,M,1888,Bent,1890,98
+842,1186,City of Castle Pines,M,2007,Douglas,1890,0
+857,835,Coal Creek,M,1882,Fremont,1890,0
+872,836,Cokedale,M,1949,Las Animas,1890,0
+887,837,Collbran,M,1908,Mesa,1890,0
+902,1117,Colorado City,M,1886,El Paso,1890,1788
+917,838,Colorado Springs,M,1872,El Paso,1890,11140
+932,839,Columbine Valley,M,1959,Arapahoe,1890,0
+947,840,Commerce City,M,1952,Adams,1890,0
+962,1123,Como,M,1883,Park,1890,374
+977,1124,Conejos,M,1885,Conejos,1890,0
+992,841,Cortez,M,1902,Montezuma,1890,332
+1007,842,Craig,M,1908,Moffat,1890,0
+1022,843,Crawford,M,1910,Delta,1890,0
+1037,844,Creede,M,1892,Mineral,1890,0
+1052,845,Crested Butte,M,1880,Gunnison,1890,857
+1067,846,Crestone,M,1901,Saguache,1890,0
+1082,847,Cripple Creek,M,1892,Teller,1890,0
+1097,848,Crook,M,1918,Logan,1890,0
+1112,849,Crowley,M,1921,Crowley,1890,0
+1127,850,Dacono,M,1908,Weld,1890,0
+1142,1147,Dallas,M,1889,Ouray,1890,541
+1157,851,De Beque,M,1890,Mesa,1890,0
+1172,852,Deer Trail,M,1920,Arapahoe,1890,0
+1187,853,Del Norte,M,1872,Rio Grande,1890,736
+1202,1148,Delagua,M,1903,Las Animas,1890,0
+1217,854,Delta,M,1882,Delta,1890,470
+1232,855,Denver,M,1885,More than One,1890,106713
+1247,856,Dillon,M,1883,Summit,1890,133
+1262,857,Dinosaur,M,1947,Moffat,1890,0
+1277,858,Dolores,M,1900,Montezuma,1890,0
+1292,859,Dove Creek,M,1939,Dolores,1890,0
+1307,860,Durango,M,1881,Las Animas,1890,2726
+1322,861,Eads,M,1916,Kiowa,1890,0
+1337,862,Eagle,M,1905,Eagle,1890,0
+1352,1150,East Canon,M,1905,Fremont,1890,0
+1367,863,Eaton,M,1892,Weld,1890,0
+1382,864,Eckley,M,1920,Yuma,1890,0
+1397,865,Edgewater,M,1904,Jefferson,1890,0
+1412,1149,Eldora,M,1898,Boulder,1890,0
+1427,866,Elizabeth,M,1890,Elbert,1890,0
+1442,1151,Elyria,M,1890,Arapahoe,1890,0
+1457,867,Empire,M,1882,Clear Creek,1890,134
+1472,868,Englewood,M,1903,Arapahoe,1890,0
+1487,869,Erie,M,1885,Weld,1890,662
+1502,870,Estes Park,M,1917,Larimer,1890,0
+1517,1125,Eureka,M,1883,San Juan,1890,49
+1532,871,Evans,M,1885,Weld,1890,306
+1547,872,Fairplay,M,1880,Park,1890,301
+1562,873,Federal Heights,M,1940,Adams,1890,0
+1577,874,Firestone,M,1908,Weld,1890,0
+1592,875,Flagler,M,1916,Kit Carson,1890,0
+1607,876,Fleming,M,1917,Logan,1890,0
+1622,877,Florence,M,1887,Fremont,1890,732
+1637,1152,Florissant,M,1891,Teller,1890,439
+1652,878,Fort Collins,M,1883,Larimer,1890,2011
+1667,879,Fort Lupton,M,1890,Weld,1890,113
+1682,880,Fort Morgan,M,1887,Morgan,1890,488
+1697,881,Fountain,M,1903,El Paso,1890,0
+1712,882,Fowler,M,1900,Otero,1890,0
+1727,883,Foxfield,M,1994,Arapahoe,1890,0
+1742,884,Fraser,M,1953,Gilpin,1890,0
+1757,885,Frederick,M,1908,Weld,1890,0
+1772,1153,Freshwater,M,1897,Park,1890,0
+1787,886,Frisco,M,1880,Summit,1890,100
+1802,887,Fruita,M,1894,Mesa,1890,0
+1817,888,Garden City,M,1938,Weld,1890,0
+1832,889,Genoa,M,1925,Lincoln,1890,0
+1847,890,Georgetown,M,1868,Clear Creek,1890,1927
+1862,891,Gilcrest,M,1912,Weld,1890,0
+1877,1158,Gillett,M,1895,El Paso,1890,0
+1892,892,Glendale,M,1952,Arapahoe,1890,0
+1907,893,Glenwood Springs,M,1885,Garfield,1890,920
+1922,1157,Globeville,M,1891,More than One,1890,0
+1937,894,Golden,M,1871,Jefferson,1890,2383
+1952,1156,Goldfield,M,1899,More than One,1890,0
+1967,895,Granada,M,1887,Bent,1890,0
+1982,896,Granby,M,1905,Grand,1890,0
+1997,897,Grand Junction,M,1882,Mesa,1890,2030
+2012,898,Grand Lake,M,1885,Grand,1890,0
+2027,1154,Grand Valley,M,1908,Garfield,1890,0
+2042,1155,Gray Creek,M,1890,Las Animas,1890,0
+2057,899,Greeley,M,1886,Weld,1890,1268
+2072,900,Green Mountain Falls,M,1890,El Paso,1890,0
+2087,901,Greenwood Village,M,1950,Arapahoe,1890,0
+2102,902,Grover,M,1916,Weld,1890,0
+2117,1126,Guadalupe,M,1885,Conejos,1890,0
+2132,903,Gunnison,M,1880,Gunnison,1890,1105
+2147,904,Gypsum,M,1911,Eagle,1890,0
+2162,1136,Harman,M,1886,Arapahoe,1890,743
+2177,905,Hartman,M,1910,Prowers,1890,0
+2192,906,Haswell,M,1920,Kiowa,1890,0
+2207,907,Haxtun,M,1909,Phillips,1890,0
+2222,908,Hayden,M,1885,Routt,1890,0
+2237,909,Hillrose,M,1919,Morgan,1890,0
+2252,910,Holly,M,1903,Prowers,1890,0
+2267,911,Holyoke,M,1888,Logan,1890,649
+2282,912,Hooper,M,1898,Costilla,1890,0
+2297,914,Hot Sulphur Springs,M,1903,Grand,1890,0
+2312,913,Hotchkiss,M,1901,Delta,1890,0
+2327,915,Hudson,M,1914,Weld,1890,0
+2342,916,Hugo,M,1909,Lincoln,1890,0
+2357,917,Idaho Springs,M,1878,Clear Creek,1890,1338
+2372,918,Ignacio,M,1913,La Plata,1890,0
+2387,919,Iliff,M,1914,Logan,1890,0
+2402,1159,Irondale,M,1926,Adams,1890,0
+2417,1160,Ironton,M,1884,Ouray,1890,323
+2432,1161,Irwin,M,1880,Gunnison,1890,45
+2447,920,Jamestown,M,1883,Boulder,1890,212
+2462,921,Johnstown,M,1907,Weld,1890,0
+2477,922,Julesburg,M,1886,Weld,1890,202
+2492,923,Keenesburg,M,1919,Weld,1890,0
+2507,1121,Keota,M,,Weld,1890,0
+2522,924,Kersey,M,1908,Weld,1890,0
+2537,925,Kim,M,1974,Las Animas,1890,0
+2552,926,Kiowa,M,1886,Elbert,1890,0
+2567,927,Kit Carson,M,1931,Cheyenne,1890,0
+2582,1127,Kokomo,M,1879,Summit,1890,192
+2597,928,Kremmling,M,1904,Grand,1890,0
+2612,930,La Jara,M,1885,Conejos,1890,0
+2627,931,La Junta,M,1881,Bent,1890,1439
+2642,937,La Salle,M,1910,Weld,1890,0
+2657,939,La Veta,M,1886,Huerfano,1890,361
+2672,929,Lafayette,M,1890,Boulder,1890,410
+2687,932,Lake City,M,1884,Hinsdale,1890,607
+2702,933,Lakeside,M,1907,Jefferson,1890,0
+2717,934,Lakewood,M,1969,Jefferson,1890,0
+2732,935,Lamar,M,1886,Bent,1890,566
+2747,1163,Lariat,M,1885,Rio Grande,1890,0
+2762,936,Larkspur,M,1979,Douglas,1890,0
+2777,938,Las Animas,M,1886,Las Animas,1890,611
+2792,1162,Lawrence,M,1894,El Paso,1890,0
+2807,940,Leadville,M,1878,Lake,1890,10384
+2822,941,Limon,M,1909,Lincoln,1890,0
+2837,942,Littleton,M,1890,Arapahoe,1890,1039
+2852,943,Lochbuie,M,1974,Weld,1890,0
+2867,944,Log Lane Village,M,1956,Morgan,1890,0
+2882,945,Lone Tree,M,1996,Douglas,1890,0
+2897,946,Longmont,M,1873,Boulder,1890,1543
+2912,947,Louisville,M,1882,Boulder,1890,596
+2927,948,Loveland,M,1881,Larimer,1890,698
+2942,949,Lyons,M,1891,Boulder,1890,574
+2957,1129,Malta,M,1879,Lake,1890,109
+2972,950,Manassa,M,1889,Conejos,1890,642
+2987,951,Mancos,M,1894,Montezuma,1890,0
+3002,952,Manitou Springs,M,1888,El Paso,1890,1439
+3017,953,Manzanola,M,1900,Otero,1890,0
+3032,954,Marble,M,1899,Gunnison,1890,0
+3047,1130,Maysville,M,1880,Chaffee,1890,78
+3062,955,Mead,M,1908,Weld,1890,0
+3077,956,Meeker,M,1885,Garfield,1890,206
+3092,957,Merino,M,1917,Logan,1890,0
+3107,958,Milliken,M,1885,Weld,1890,0
+3122,959,Minturn,M,1904,Eagle,1890,0
+3137,960,Moffat,M,1911,Saguache,1890,0
+3152,1137,Montclair vi,M,1888,Arapahoe,1890,380
+3167,961,Monte Vista,M,1886,Rio Grande,1890,780
+3182,962,Montezuma,M,1882,Summit,1890,106
+3197,963,Montrose,M,1882,Montrose,1890,1330
+3212,964,Monument,M,1881,El Paso,1890,177
+3227,965,Morrison,M,1906,Jefferson,1890,0
+3242,968,Mount Crested Butte,M,1974,Gunnison,1890,0
+3257,966,Mountain View,M,1904,Jefferson,1890,0
+3272,967,Mountain Village,M,1995,San Miguel,1890,0
+3287,969,Naturita,M,1951,Montrose,1890,0
+3302,970,Nederland,M,1874,Boulder,1890,111
+3317,1118,Nevadaville,M,1886,Gilpin,1890,933
+3332,971,New Castle,M,1888,Garfield,1890,311
+3347,1164,North Longmont,M,1903,Boulder,1890,0
+3362,972,Northglenn,M,1969,Adams,1890,0
+3377,973,Norwood,M,1905,San Miguel,1890,0
+3392,974,Nucla,M,1915,Montrose,1890,0
+3407,975,Nunn,M,1908,Weld,1890,0
+3422,976,Oak Creek,M,1907,Routt,1890,0
+3437,1165,Ohio City,M,1907,Gunnison,1890,0
+3452,977,Olathe,M,1907,Montrose,1890,0
+3467,978,Olney Springs,M,1912,Crowley,1890,0
+3482,979,Ophir,M,1881,San Miguel,1890,113
+3497,980,Orchard City,M,1912,Delta,1890,0
+3512,981,Ordway,M,1900,Otero,1890,0
+3527,1166,Oro,M,1885,Lake,1890,222
+3542,982,Otis,M,1917,Washington,1890,129
+3557,983,Ouray,M,1884,Ouray,1890,2534
+3572,984,Ovid,M,1925,Sedgwick,1890,0
+3587,985,Pagosa Springs,M,1891,Archuleta,1890,0
+3602,986,Palisade,M,1904,Mesa,1890,0
+3617,987,Palmer Lake,M,1889,El Paso,1890,213
+3632,988,Paoli,M,1930,Phillips,1890,0
+3647,989,Paonia,M,1902,Delta,1890,0
+3662,990,Parachute,M,1908,Garfield,1890,0
+3677,991,Parker,M,1981,Douglas,1890,0
+3692,992,Peetz,M,1917,Logan,1890,0
+3707,993,Pierce,M,1918,Weld,1890,0
+3722,994,Pitkin,M,1880,Gunnison,1890,371
+3737,995,Platteville,M,1876,Weld,1890,213
+3752,996,Poncha Springs,M,1880,Chaffee,1890,101
+3767,997,Pritchett,M,1937,Baca,1890,0
+3782,1167,Prospect He,M,1905,Fremont,1890,0
+3797,998,Pueblo,M,1885,Pueblo,1890,24558
+3812,999,Ramah,M,1927,El Paso,1890,0
+3827,1168,Ramona,M,1927,El Paso,1890,0
+3842,1000,Rangely,M,1946,Rio Blanco,1890,0
+3857,1001,Raymer,M,1919,Weld,1890,0
+3872,1002,Red Cliff,M,1880,Eagle,1890,383
+3887,1169,Red Mountain,M,1883,Ouray,1890,598
+3902,1003,Rico,M,1880,Dolores,1890,1134
+3917,1004,Ridgway,M,1891,Ouray,1890,0
+3932,1005,Rifle,M,1905,Garfield,1890,0
+3947,1170,Robinson,M,1881,Summit,1890,164
+3962,1006,Rockvale,M,1886,Fremont,1890,0
+3977,1007,Rocky Ford,M,1887,Bent,1890,468
+3992,1008,Romeo,M,1923,Conejos,1890,0
+4007,1171,Rosedale,M,1939,Weld,1890,0
+4022,1131,Rosita,M,1882,Custer,1890,304
+4037,1132,Ruby,M,1880,Gunnison,1890,0
+4052,1009,Rye,M,1937,Pueblo,1890,0
+4067,1010,Saguache,M,1878,Saguache,1890,660
+4082,1011,Salida,M,1885,Chaffee,1890,2586
+4097,1013,San Luis,M,1885,Costilla,1890,0
+4112,1133,San Raphael,M,1885,Conejos,1890,0
+4127,1012,Sanford,M,1892,Conejos,1890,0
+4142,1014,Sawpit,M,1896,San Miguel,1890,0
+4157,1015,Sedgwick,M,1881,Sedgwick,1890,0
+4172,1016,Seibert,M,1917,Kit Carson,1890,0
+4187,1072,Severance,M,1920,Weld,1890,0
+4202,1073,Sheridan,M,1885,Arapahoe,1890,0
+4217,1074,Sheridan Lake,M,1951,Kiowa,1890,0
+4232,1075,Silt,M,1915,Garfield,1890,0
+4247,1076,Silver Cliff,M,1880,Custer,1890,546
+4262,1077,Silver Plume,M,1880,Clear Creek,1890,908
+4277,1078,Silverthorne,M,1967,Summit,1890,0
+4292,1079,Silverton,M,1876,San Juan,1890,0
+4307,1080,Simla,M,1913,Elbert,1890,0
+4322,1081,Snowmass Village,M,1977,Pitkin,1890,0
+4337,1172,South Canon,M,1891,Fremont,1890,0
+4352,1135,South Denver,M,1886,Arapahoe,1890,1491
+4367,1082,South Fork,M,1992,Rio Grande,1890,0
+4382,1173,Spencer,M,1897,Gunnison,1890,0
+4397,1083,Springfield,M,1889,Las Animas,1890,90
+4412,1174,St. Elmo,M,1880,Chaffee,1890,0
+4427,1084,Starkville,M,1954,Las Animas,1890,928
+4442,1085,Steamboat Springs,M,1907,Routt,1890,0
+4457,1086,Sterling,M,1884,Weld,1890,540
+4472,1087,Stratton,M,1917,Kit Carson,1890,0
+4487,1088,Sugar City,M,1900,Otero,1890,0
+4502,1089,Superior,M,1904,Boulder,1890,0
+4517,1090,Swink,M,1906,Otero,1890,0
+4532,1091,Telluride,M,1887,San Miguel,1890,766
+4547,1092,Thornton,M,1956,Adams,1890,0
+4562,1093,Timnath,M,1920,Larimer,1890,0
+4577,1094,Trinidad,M,1876,Las Animas,1890,3523
+4592,1095,Two Buttes,M,1911,Baca,1890,0
+4607,1096,Vail,M,1966,Eagle,1890,0
+4622,1176,Valverde,M,1888,Arapahoe,1890,0
+4637,1097,Victor,M,1894,El Paso,1890,0
+4652,1098,Vilas,M,1888,Las Animas,1890,43
+4667,1134,Virginia City/Tin Cup,M,1882,Gunnison,1890,209
+4682,1099,Vona,M,1919,Kit Carson,1890,0
+4697,1100,Walden,M,1890,Larimer,1890,64
+4712,1101,Walsenburg,M,1873,Huerfano,1890,928
+4727,1102,Walsh,M,1928,Baca,1890,0
+4742,1103,Ward,M,1896,Boulder,1890,424
+4757,1104,Wellington,M,1905,Larimer,1890,0
+4772,1105,Westcliffe,M,1887,Custer,1890,192
+4787,1106,Westminster,M,1911,Adams,1890,0
+4802,1107,Wheat Ridge,M,1969,Jefferson,1890,0
+4817,1175,White Pine,M,1882,Gunnison,1890,143
+4832,1108,Wiggins,M,1974,Morgan,1890,0
+4847,1109,Wiley,M,1909,Prowers,1890,0
+4862,1110,Williamsburg,M,1888,Fremont,1890,0
+4877,1111,Windsor,M,1890,Weld,1890,173
+4892,1112,Winter Park,M,1979,Grand,1890,0
+4907,1113,Woodland Park,M,1891,El Paso,1890,0
+4922,1114,Wray,M,1889,Washington,1890,125
+4937,1115,Yampa,M,1907,Routt,1890,0
+4952,1116,Yuma,M,1887,Washington,1890,241
+5239,1178,Adams,C,,,1890,0
+5254,1179,Alamosa,C,,,1890,0
+5269,1180,Arapahoe,C,,,1890,132135
+5284,1181,Archuleta,C,,,1890,826
+5299,1182,Baca,C,,,1890,1479
+5314,1183,Bent,C,,,1890,1313
+5329,1184,Boulder,C,,,1890,14082
+5344,1188,Broomfield,C,,,1890,0
+5359,1185,Chaffee,C,,,1890,6612
+5374,1017,Cheyenne,C,,,1890,534
+5389,1018,Clear Creek,C,,,1890,7184
+5404,1177,COLORADO,C,,,1890,412198
+5419,1019,Conejos,C,,,1890,7193
+5434,1020,Costilla,C,,,1890,3491
+5449,1021,Crowley,C,,,1890,0
+5464,1022,Custer,C,,,1890,2970
+5479,1023,Delta,C,,,1890,2534
+5494,1024,Denver,C,,,1890,0
+5509,1025,Dolores,C,,,1890,1498
+5524,1026,Douglas,C,,,1890,3006
+5539,1027,Eagle,C,,,1890,3725
+5554,1028,El Paso,C,,,1890,21239
+5569,1029,Elbert,C,,,1890,1856
+5584,1030,Fremont,C,,,1890,9156
+5599,1031,Garfield,C,,,1890,4478
+5614,1032,Gilpin,C,,,1890,5867
+5629,1033,Grand,C,,,1890,604
+5644,1034,Gunnison,C,,,1890,4359
+5659,1035,Hinsdale,C,,,1890,862
+5674,1036,Huerfano,C,,,1890,6882
+5689,1037,Jackson,C,,,1890,0
+5704,1038,Jefferson,C,,,1890,8450
+5719,1039,Kiowa,C,,,1890,1243
+5734,1040,Kit Carson,C,,,1890,2472
+5749,1041,La Plata,C,,,1890,5509
+5764,1042,Lake,C,,,1890,14663
+5779,1043,Larimer,C,,,1890,9712
+5794,1044,Las Animas,C,,,1890,17208
+5809,1045,Lincoln,C,,,1890,689
+5824,1046,Logan,C,,,1890,3070
+5839,1047,Mesa,C,,,1890,4260
+5854,1048,Mineral,C,,,1890,0
+5869,1049,Moffat,C,,,1890,0
+5884,1050,Montezuma,C,,,1890,1529
+5899,1051,Montrose,C,,,1890,3980
+5914,1052,Morgan,C,,,1890,1601
+5929,1053,Otero,C,,,1890,4192
+5944,1054,Ouray,C,,,1890,6510
+5959,1055,Park,C,,,1890,3548
+5974,1056,Phillips,C,,,1890,2642
+5989,1057,Pitkin,C,,,1890,8929
+6004,1058,Prowers,C,,,1890,1969
+6019,1059,Pueblo,C,,,1890,31491
+6034,1060,Rio Blanco,C,,,1890,1200
+6049,1061,Rio Grande,C,,,1890,3451
+6064,1062,Routt,C,,,1890,2369
+6079,1063,Saguache,C,,,1890,3313
+6094,1064,San Juan,C,,,1890,1572
+6109,1065,San Miguel,C,,,1890,2909
+6124,1066,Sedgwick,C,,,1890,1293
+6139,1067,Summit,C,,,1890,1906
+6154,1068,Teller,C,,,1890,0
+6169,1069,Washington,C,,,1890,2301
+6184,1070,Weld,C,,,1890,11736
+6199,1071,Yuma,C,,,1890,2596

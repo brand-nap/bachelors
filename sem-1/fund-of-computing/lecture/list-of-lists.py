@@ -62,7 +62,6 @@ def menuSelect(students, options, text = ''):
     print('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n');
     print(f'{text}\n'); # formatting
 
-
     # prints out all options
     for option in options:
         print(option[0]);
@@ -73,7 +72,6 @@ def menuSelect(students, options, text = ''):
         
         text = options[int(userSelect)-1][1](students);     # every function returns an output text and takes students as the sole paramter
         menuSelect(students, options, text);                # options will reload after action is complete  -  recursion for the win!
-
 
     print('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n');
     print(printStudents(students) if len(students) > 0 else 'Have a nice day!\n'); #Just a closing result
