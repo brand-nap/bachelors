@@ -13,7 +13,7 @@ def main():
     print();
     display_result(compute_sum(intList), compute_mean(intList), compute_sd(intList))
 
-def read_data(intList = None):
+def read_data(intList = []):
     """
     Function Name: read_data
     Description: prompts user for a list of numbers
@@ -23,9 +23,6 @@ def read_data(intList = None):
     
     nextInt = input('Number [Press Enter when Done]: ')
     
-    if intList is None:
-        intList = [];
-
     if nextInt == '':
         return
     
